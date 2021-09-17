@@ -2365,7 +2365,7 @@ fanart="https://i.imgur.com/UT0WBCE.png"
 preview="http://"
 adult="no"
 info="http://"
-description="Horror Build."
+description="Arkham City Build."
 
 name="Masters Of Horror Build"
 version="1.5"
