@@ -2410,7 +2410,7 @@ info="http://"
 description="Abs-trek Build."
 
 name="Star Trek Build"
-version="1.0"
+version="1.1"
 url="http://thechains24.com/BUILDS/19%20builds/Star%20Trek%20Build.zip"
 minor="http://"
 gui="http://"
