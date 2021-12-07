@@ -2159,7 +2159,7 @@ description="Blue Hats Aeon Terror Build. This is for older Firestick users and 
 
 name="Green Monster 19 Touch"
 version="1.7"
-url="https://gitlab.com/SH_TC/19-builds/-/raw/main/gm19t.zip"
+url="https://gitlab.com/SH_TC/19-builds/-/raw/main/gm19.zip"
 minor="http://"
 gui="http://"
 kodi="19.0"
