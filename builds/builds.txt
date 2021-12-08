@@ -508,7 +508,7 @@ adult="no"
 description="Kodi build APKstyle"
 
 name="No Build Build"
-version="1.2"
+version="1.3"
 url="http://funstersplace.net/Builds/nobuild.zip"
 gui="http://"
 kodi="18"
