@@ -157,20 +157,6 @@ description="sheps Breezz builds"
 
 ################################################################################################
 
-name="Green Monster"
-version="3.0"
-url="https://gitlab.com/SH_TC/18-builds/-/raw/main/greenmonster.zip"
-minor="http://"
-gui="http://"
-kodi="18.5"
-theme="http://"
-icon="https://gitlab.com/SH_TC/18-builds/-/raw/main/builds/images/gm_icon.jpg"
-fanart="https://gitlab.com/SH_TC/18-builds/-/raw/main/builds/images/gm_fanart.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="Green Monster Build (Fully Loaded)"
-
 name="Blue Hats - Aeon Terror Build - Leia" 
 version="1.7"
 url="https://gitlab.com/SH_TC/18-builds/-/raw/main/BlueHat/bh2.zip"
