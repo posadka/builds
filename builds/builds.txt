@@ -1987,7 +1987,7 @@ info="http://"
 description="Green Monster Build Touch Screen"
 
 name="Franks Build 19"
-version="2.0"
+version="2.1"
 url="http://thechains24.com/Ghost-Addon/ghostxmls/builds/Franks19.zip"
 minor="http://"
 gui="http://"
