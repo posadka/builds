@@ -130,7 +130,7 @@ info="http://"
 description="AppTv"
 
 name="GlooM"
-version="1.1"
+version="1.2"
 url="http://funstersplace.net/Builds/gloom.zip"
 minor="http://"
 gui="http://"
