@@ -228,7 +228,7 @@ info="http://"
 description="Aeon Nox Barroni"
 
 name="Sports Plus"
-version="1.7"
+version="1.8"
 url="http://funstersplace.net/Builds/sport.zip"
 minor="http://"
 gui="http://"
