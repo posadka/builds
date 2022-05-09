@@ -116,7 +116,7 @@ info="http://"
 description="Small Fast"
 
 name="Franks Build 19"
-version="2.6"
+version="2.7"
 url="http://thechains24.com/Ghost-Addon/ghostxmls/builds/Franks19.zip"
 minor="http://"
 gui="http://"
