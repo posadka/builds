@@ -719,7 +719,7 @@ info="http://"
 description="Black Glass Nova"
 
 name="Smokin Build 19"
-version="3.1"
+version="3.3"
 url="http://funstersplace.net/Builds/smoking.zip"
 minor="http://"
 gui="http://"
