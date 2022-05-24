@@ -116,7 +116,7 @@ info="http://"
 description="Small Fast"
 
 name="Franks Build"
-version="2.8"
+version="2.9"
 url="https://thechains24.com/PornKing/Builds/Franks19.zip"
 minor="http://"
 gui="http://"
