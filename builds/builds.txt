@@ -128,7 +128,7 @@ adult="no"
 description="Franks Builds"
 
 name="Dark MooN"
-version="1.0"
+version="1.1"
 url="http://funstersplace.net/Builds/dark.zip"
 minor="http://"
 gui="http://"
