@@ -4,8 +4,8 @@
 #zip="https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/plugin.program.thecrewiz/plugin.program.thecrewiz-0.0.18.zip"
 
 name="Green Monster 19"
-version="2.3"
-url="https://gitlab.com/SH_TC/19-builds/-/raw/main/gm19.zip"
+version="2.4"
+url="http://team-crew.co.uk/Crew/gm19.zip"
 minor="http://"
 gui="http://"
 kodi="19.0"
