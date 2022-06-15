@@ -170,7 +170,7 @@ info="http://"
 description="xonfluence with hidden widgets"
 
 name="GlooM"
-version="1.3"
+version="1.4"
 url="http://funstersplace.net/Builds/gloom.zip"
 minor="http://"
 gui="http://"
