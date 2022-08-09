@@ -406,7 +406,7 @@ info="http://"
 description="Gallifrey Build"
 
 name="Midnight Build" 
-version="1.8" 
+version="1.9" 
 url="https://thechains24.com/BUILDS/19%20builds/midnight%20build.zip" 
 minor="http://" 
 gui="http://" 
