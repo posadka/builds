@@ -420,7 +420,7 @@ info="http://"
 description="Midnight Build"
 
 name="Chains Build" 
-version="1.4" 
+version="1.6" 
 url="https://thechains24.com/BUILDS/19%20builds/the%20chains%20build.zip" 
 minor="http://" 
 gui="http://" 
