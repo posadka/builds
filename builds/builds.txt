@@ -18,7 +18,7 @@ info="http://"
 description="Funs Halloween Experience"
 
 name="Green Monster 19"
-version="2.4"
+version="2.5"
 url="http://team-crew.co.uk/Crew/gm19.zip"
 minor="http://"
 gui="http://"
