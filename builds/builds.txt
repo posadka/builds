@@ -142,7 +142,7 @@ adult="no"
 description="REELFLIX 19"
 
 name="Franks Build"
-version="3.1"
+version="3.2"
 url="https://thechains24.com/PornKing/Builds/Franks19.zip"
 minor="http://"
 gui="http://"
