@@ -449,7 +449,7 @@ info="http://"
 description="Killer Frequency Build"
 
 name="Nightmare Build" 
-version="1.0" 
+version="1.1" 
 url="https://thechains24.com/BUILDS/19%20builds/nightmare%20build.zip" 
 minor="http://" 
 gui="http://" 
