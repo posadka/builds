@@ -535,7 +535,7 @@ info="http://"
 description="Gallifrey Build"
 
 name="Midnight Build" 
-version="2.0" 
+version="2.6" 
 url="https://thechains24.com/BUILDS/19%20builds/midnight%20build.zip" 
 minor="http://" 
 gui="http://" 
@@ -929,7 +929,7 @@ description="Chain Reaction Build"
 
 
 name="Midnight Build"
-version="2.3"
+version="2.6"
 url="https://thechains24.com/BUILDS/19%20builds/midnight%20build.zip"
 minor="http://"
 gui="http://"
