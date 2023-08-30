@@ -5,8 +5,8 @@
 
 
 name="Green Monster 19"
-version="3.0"
-url="https://gitlab.com/SH_TC/19-builds/-/raw/main/gm.zip"
+version="3.1"
+url="http://team-crew.co.uk/Crew/gm.zip"
 minor="http://"
 gui="http://"
 kodi="19.0"
@@ -691,8 +691,8 @@ info="http://"
 description="Build by Nature Man."
 #############################################20 Builds#############################################
 name="Green Monster 20"
-version="3.0"
-url="https://gitlab.com/SH_TC/19-builds/-/raw/main/gm.zip"
+version="3.1"
+url="http://team-crew.co.uk/Crew/gm.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
