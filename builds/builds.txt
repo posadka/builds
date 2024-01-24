@@ -161,7 +161,7 @@ info="http://"
 description="Dystopia BUILD"
 
 name="Franks Build"
-version="1.5"
+version="1.7"
 url="https://thechains24.com/PornKing/Builds/Franks20.zip"
 minor="http://"
 gui="http://"
