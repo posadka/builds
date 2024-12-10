@@ -161,7 +161,7 @@ info="http://"
 description="Dystopia BUILD"
 
 name="Franks Build"
-version="2.0"
+version="2.1"
 url="https://thechains24.com/PornKing/Builds/Franks20.zip"
 minor="http://"
 gui="http://"
@@ -783,7 +783,7 @@ description="NON DEBRID BUILD"
 
 
 name="Franks 21 Build"
-version="1.0"
+version="2.1"
 url="https://thechains24.com/PornKing/Builds/Franks21.zip"
 minor="http://"
 gui="http://"
