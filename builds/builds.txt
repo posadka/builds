@@ -190,7 +190,7 @@ description="Nimbus Berserk December 11"
 
 
 name="Franks 21 Build"
-version="2.3"
+version="2.5"
 url="https://thechains24.com/PornKing/Builds/Franks21.zip"
 minor="http://"
 gui="http://"
